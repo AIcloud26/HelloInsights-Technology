@@ -1,6 +1,7 @@
 {
-  "v": 1793591731123,
+  "v": 1793681869964,
   "articles": {
+    "182": "finance",
     "235": "ai-tools",
     "401": "ai-tools",
     "582": "health-lifestyle",
@@ -199,6 +200,7 @@
     "26976": "ai-tools",
     "27001": "technology",
     "27018": "finance",
+    "27108": "ai-tools",
     "27194": "technology",
     "27247": "technology",
     "27258": "health-lifestyle",
@@ -398,6 +400,7 @@
     "51280": "health-lifestyle",
     "51385": "health-lifestyle",
     "51550": "technology",
+    "51690": "health-lifestyle",
     "52047": "technology",
     "52172": "finance",
     "52222": "ai-tools",
@@ -616,6 +619,7 @@
     "86077": "technology",
     "86203": "health-lifestyle",
     "86399": "health-lifestyle",
+    "86605": "ai-tools",
     "86615": "health-lifestyle",
     "86798": "ai-tools",
     "87714": "ai-tools",
@@ -675,6 +679,7 @@
     "96176": "finance",
     "96179": "technology",
     "96426": "finance",
+    "96754": "health-lifestyle",
     "97425": "ai-tools",
     "97531": "technology",
     "97533": "technology",
@@ -709,6 +714,7 @@
     97533,
     97531,
     97425,
+    96754,
     96426,
     96179,
     96176,
@@ -768,6 +774,7 @@
     87714,
     86798,
     86615,
+    86605,
     86399,
     86203,
     86077,
@@ -986,6 +993,7 @@
     52222,
     52172,
     52047,
+    51690,
     51550,
     51385,
     51280,
@@ -1185,6 +1193,7 @@
     27258,
     27247,
     27194,
+    27108,
     27018,
     27001,
     26976,
@@ -1382,6 +1391,7 @@
     875,
     582,
     401,
-    235
+    235,
+    182
   ]
 }
